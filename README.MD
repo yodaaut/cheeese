@@ -1,20 +1,23 @@
-# Say cheeese!
+# Say cheeese
 
-## TODO:
+## TODO
 
-### Frontend:
+### Frontend
+
 * [ ] Setup Server
   * [ ] Install Angular
   * [ ] Set Background Images
   * [ ] Set Routes
 
-### Backend:
+### Backend
+
 * [ ] Setup Server
   * [ ] Install nestjs
   * [ ] Install Dependency gphoto2
   * [ ] Setup Not Found and Error Middlewares
 
-### Database:
+### Database
+
 * [ ] Model DB
   * What data will be stored?
   * Which database will be used?
