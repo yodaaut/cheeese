@@ -46,7 +46,7 @@ div.photo-multi {
   outline-style: solid;
   outline-color: yellow;
   outline-width: thick;
-  background-color: yellowgreen;
+  /* background-color: yellowgreen; */
 }
 a.fill-div {
   display: block;
@@ -56,5 +56,5 @@ a.fill-div {
   top: 0;
   left: 0;
   text-decoration: none;
-  background-color: tomato;
+  /* background-color: tomato; */
 }
