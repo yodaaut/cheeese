@@ -4,9 +4,10 @@
 
 ### Frontend
 
-* [ ] Setup Server
-  * [ ] Install Angular
+* [x] Setup Server
+  * [x] Install Angular
   * [ ] Set Background Images
+  * [ ] Add Components
   * [ ] Set Routes
 
 ### Backend
