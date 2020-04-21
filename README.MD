@@ -7,8 +7,8 @@
 * [x] Setup Server
   * [x] Install Angular
   * [ ] Set Background Images
-  * [ ] Add Components
-  * [ ] Set Routes
+  * [x] Add Components
+  * [x] Set Routes
 
 ### Backend
 
